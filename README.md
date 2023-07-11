@@ -3,6 +3,10 @@
 This is a **project** started by me, the **Jailbreak | TradingBot**.
 I've started this project about a week ago, the ultimate goal of this project is to help everyone trade their items up to better and higher valued items.
 
+## Download
+Now I put this all the way on top to make it easier, but I suggest reading below before downloading.
+You can download this by clicking [here](https://github.com/cheslin23t/AutoJailbreakTrading/releases/tag/Latest)
+
 ## How?
 The trading bot automatically hops to different trading-servers, and automatically reads user's messages and needs, and sends trades depending on those messages.
 
